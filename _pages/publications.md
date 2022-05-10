@@ -10,7 +10,7 @@ PUBLICATIONS
 ======
 
 
-# Articles Published in Peer Reviewed Journals
+## Articles Published in Peer Reviewed Journals
 
 * Zakaria, H., Obeng, F. K., Quainoo, A. K., **Abujaja, A. M.** (2022). Prospects ad Constraints faced y Smallholder Farmers in the Cultivation of GM crops: A Case Study from Northern Ghana. Africa Journal of Agricultural Research. 18(3): 221-230.
 
@@ -37,6 +37,15 @@ PUBLICATIONS
 * **Abujaja, A. M.**, Adam, H., and Hudu, Z. (2013). Effects of Development Interventions on the Productivity and Profitability of Women Shea Butter Processors in the West Gonja District of Northern Ghana. Asian Journal of Agriculture and Rural Development. 3(12): 914 – 923.
     
 * Hudu, Z., Adam, H., and **Abujaja, A. M.**  (2013). The Perception of Agricultural Students and self – employment in Agribusiness: A case Study of Students of University for Development Studies, Ghana. International Journal of Research in Commerce and Management. 4 (12):104 – 109. 
+
+## Editorial
+
+* **Abujaja, A. M.** and Abdulai, A. (2019). Using effective assessment to improve teaching and learning.  Journal for Researching Education Practice and Theory (JREPT). 2 (1): 1-3 ISSN 2616-6828.
+
+## Book Published
+
+* **Abujaja, A. M.**, and Nyarko, G. (2016). Principles, Techniques and Methodologies in Teaching Agricultural Science: What Agricultural Science Teachers Need to Know about Teaching.  Reformers Company Ltd. Accra. ISBN: 012-0011-3-4567-6. 
+
 
 
 
