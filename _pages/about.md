@@ -23,4 +23,4 @@ News
 
 Get in touch with me
 ------
-You can get in touch with me via email: [afiabujaja@yahoo.com](afiabujaja@yahoo.com) or[afiabujaja@yahoo.com](mabujaja@uds.edu.gh).
+You can get in touch with me via email: [afiabujaja@yahoo.com](afiabujaja@yahoo.com) or [afiabujaja@yahoo.com](mabujaja@uds.edu.gh).
