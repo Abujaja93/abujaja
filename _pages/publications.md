@@ -22,7 +22,7 @@ author_profile: true
 * Amuriya, I. D., Hudud, Z., and **Abujaja, A. M.** (2018). Challenges of Teaching Practical Skills: The Case of Deploying Project Method of Teaching among Students of Awe Senior High School in the Upper East Region, Ghana. International Journal of Agricultural Education and Extension. 2 (2): 085-090. [Download here](https://www.researchgate.net/publication/327406154_Organizing_Project_Method_of_Teaching_for_Effective_Agricultural_Knowledge_and_Skills_Acquisition_Comparison_of_Individual_and_Group_Student_Projects)
 
    
-**2015 **
+**2015**
 
 * Hudu, Z. **Abujaja, A. M.**, Adam, H., and Salifu, Y. W. (2015). Does Gender Make any Difference in Livelihoods Diversification? Evidence from Northern Ghana. International Journal of Agricultural Extension and Rural Development Studies. 1(1): 36-51.
     
