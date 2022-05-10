@@ -47,7 +47,7 @@ PUBLICATIONS
 * **Abujaja, A. M.**, and Nyarko, G. (2016). Principles, Techniques and Methodologies in Teaching Agricultural Science: What Agricultural Science Teachers Need to Know about Teaching.  Reformers Company Ltd. Accra. ISBN: 012-0011-3-4567-6. 
 
 
-
+....
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
