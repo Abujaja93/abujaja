@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download Pdf Version of CV [here]()
 
-### EDUCATION
+
+### Education
 ======
 
 * Ph.D in Innvovation Communication, University for Development Studies, April 2022 
@@ -23,7 +23,7 @@ Download Pdf Version of CV [here]()
 * B.E.C.E Kalpohin Junior Secondary School, Tamale,		September 1984
 
 
-WORK EXPERIENCE
+Work Experience
 ======
 
 * [2012 - Date] Snr. Lecturer, at Agricultural and Consumer Sciences Education, UDS.
@@ -39,7 +39,7 @@ WORK EXPERIENCE
 * [1990 - 1996] Subject teacher in imparting knowledge to pupils in first cycle school, Bolgatanga.
 
 
-GRANTS/FELLOWSHIP/AWARDS
+Grants/Fellowship/Awards
 ======
 
 * [24/07/2019- 25/07/2019] Gender Expert Feed the Future Innovation Laboratory for Peanut Ghana Project.
@@ -50,7 +50,7 @@ GRANTS/FELLOWSHIP/AWARDS
 * [2003] Prolongation Document on a “One more Year Support for the Strengthening of the Development Office”. Sponsored by CORDAID.
 * Construction of Pre-school/Kindergarten for Frafra Settlement No.1 in Damongo. Sponsored by Pontifical Society of the Holy Childhood.
   
-ACHIEVEMENT AND CONTRIBUTION
+Achievement and Contribution
 ======
 
 * [September 2003]	Facilitated and coordinated the establishment St. Annes’ Girls Senior High School in Damongo.
@@ -60,7 +60,7 @@ ACHIEVEMENT AND CONTRIBUTION
 * [May 2005] Facilitated and coordinated the institutional evaluation of Damongo Diocesan Development Office.
 * [Nov-Dec 2016] End of Project evaluation of Programme Results and Participatory Outcome Assessment and Project Compilation Report for Northern Rural Growth Project (NRGP) for 2016.
 
-ADMINISTATIVE AND ORGANIZATIONAL EXPERIENCE
+Administrative and Organizational Experience
 ======
 
 * [2018 - Date] HOD of Department for Agricultural Consumer Sciences Education
@@ -82,7 +82,7 @@ ADMINISTATIVE AND ORGANIZATIONAL EXPERIENCE
 * [Since 2012] Member, Academic Board					
 
   
-CONFERENCES/WORKSHOPS/SEMINARS ATTENDED
+Cconference/Workshops/Seminars Attended
 ======
 
 * Training on Internalization of Research, Innovations in Education and Resource Mobilization at UDS-International Conference Center, Tamale from 11th 12th February 2019.
@@ -100,8 +100,9 @@ CONFERENCES/WORKSHOPS/SEMINARS ATTENDED
 * Two weeks training of trainers’ workshop conducted by peace corps Ghana from 10th -24th August 2001.
 
 
-COMMUNITY ENGAGEMENTS
- ====== 
+Community Engagements
+====== 
+
  * [2019 - 2023] Collaborator ad Gender Expert to Feed the Future Innovation Laboratory for Peanut Ghana Project from 2019-2023.
  * [19/04/2021- 30/06/2021] Resource Person and Facilitator on Sex and Gender Based Violence for young women and support services to Africa Skills Hub (ASH), Tamale.
  * [22/04/2021] Guest Speaker, virtual launch of women’s entrepreneurship and livelihood initiative. Africa Skills Hub, Canada World Youth Partner to Support Women Entrepreneurs in Tamale.
@@ -119,14 +120,14 @@ COMMUNITY ENGAGEMENTS
 * [09/2001] Peace Corps:  Language Cross Cultural Facilitator in Gonja.
 
   
-SKILLS/EXPERTISE
+Skills/Expertise
 ======
 
 * Agricultural Extension and Education
 * Gender, Rural Development and Training
 
   
-MEMBERSHIP OF PROFESSIONAL ASSOCIATIONS
+Membership of Professional Associations
 ======
 
 * Member, University Teachers Association of Ghana (UTAG)
