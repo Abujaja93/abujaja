@@ -5,11 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-PUBLICATIONS
-======
-
-
 ## Peer Reviewed Journals
 
 * Zakaria, H., Obeng, F. K., Quainoo, A. K., **Abujaja, A. M.** (2022). Prospects ad Constraints faced y Smallholder Farmers in the Cultivation of GM crops: A Case Study from Northern Ghana. Africa Journal of Agricultural Research. 18(3): 221-230.
