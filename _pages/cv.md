@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 
 * Ph.D in Innvovation Communication, University for Development Studies, April 2022 
@@ -21,7 +21,7 @@ Education
 * G.C.E ‘O’ Level, Business Secondary School, Tamale,		June 1987
 * B.E.C.E Kalpohin Junior Secondary School, Tamale,		September 1984
 
-Work experience
+WORK EXPERIENCE
 ======
 
 * [2012 - Date] Snr. Lecturer, at Agricultural and Consumer Sciences Education, UDS.
