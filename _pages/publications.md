@@ -9,7 +9,7 @@ author_profile: true
 
 **2022**
 
-* Zakaria, Hudu & Obeng, F.K. & **Abujaja, Afishata** & Ak, Quainoo. (2022). Knowledge and understanding about genetically modified (GM) crops among smallholder farmers in Northern Ghana. 2021. 10.5897/JABSDxx.xx. 
+* Zakaria, Hudu & Obeng, F.K. & **Abujaja, Afishata** & Ak, Quainoo. (2022). Knowledge and understanding about genetically modified (GM) crops among smallholder farmers in Northern Ghana. 2021. 10.5897/JABSDxx.xx.[Download here](https://www.researchgate.net/publication/360424459_Knowledge_and_understanding_about_genetically_modified_GM_crops_among_smallholder_farmers_in_Northern_Ghana/citations) 
 
 * Zakaria, H., Obeng, F. K., Quainoo, A. K., **Abujaja, A. M.** (2022). Prospects ad Constraints faced y Smallholder Farmers in the Cultivation of GM crops: A Case Study from Northern Ghana. Africa Journal of Agricultural Research. 18(3): 221-230.
 
