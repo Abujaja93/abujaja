@@ -41,6 +41,7 @@ WORK EXPERIENCE
 
 GRANTS/FELLOWSHIP/AWARDS
 ======
+
 * [24/07/2019- 25/07/2019] Gender Expert Feed the Future Innovation Laboratory for Peanut Ghana Project.
 * [11/2014- 06/2017] Gender Specialist on WLE-CIAT/UDS/IUCN/ACDEP Research Project.
 * [10/2014 - 03/2018]  Gender Specialist on USAID-Feed the Future Project on Innovation Laboratory on Small Scale Irrigation in Ethiopia, Tanzania and Ghana.
@@ -99,7 +100,7 @@ CONFERENCES/WORKSHOPS/SEMINARS ATTENDED
 * Two weeks training of trainers’ workshop conducted by peace corps Ghana from 10th -24th August 2001.
 
 
- COMMUNITY ENGAGEMENTS
+COMMUNITY ENGAGEMENTS
  ====== 
  * [2019 - 2023] Collaborator ad Gender Expert to Feed the Future Innovation Laboratory for Peanut Ghana Project from 2019-2023.
  * [19/04/2021- 30/06/2021] Resource Person and Facilitator on Sex and Gender Based Violence for young women and support services to Africa Skills Hub (ASH), Tamale.
@@ -120,12 +121,14 @@ CONFERENCES/WORKSHOPS/SEMINARS ATTENDED
   
 SKILLS/EXPERTISE
 ======
+
 * Agricultural Extension and Education
 * Gender, Rural Development and Training
 
   
 MEMBERSHIP OF PROFESSIONAL ASSOCIATIONS
 ======
+
 * Member, University Teachers Association of Ghana (UTAG)
 * Member, Ghana Institute of Horticulturalists (GhIH).
 
