@@ -8,17 +8,20 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download Pdf Version of CV [here]()
 
-EDUCATION
+### EDUCATION
 ======
 
 * Ph.D in Innvovation Communication, University for Development Studies, April 2022 
 * Mphil Agriculture Extension, University of Ghana, December 2009
 * B.ED in Agric. Education, University of Education, Mampong, October 2000
 * Diploma in Agric. Education, University of Education, Mampong,	December 1999
+* Diploma in Agric. Education, University of Education, Mampong,	December 1999
 * Teachers’ Certificate A, Bagabaga Training College, Tamale,	May 1991
 * G.C.E ‘O’ Level, Business Secondary School, Tamale,		June 1987
 * B.E.C.E Kalpohin Junior Secondary School, Tamale,		September 1984
+
 
 WORK EXPERIENCE
 ======
@@ -96,10 +99,8 @@ CONFERENCES/WORKSHOPS/SEMINARS ATTENDED
 * Two weeks training of trainers’ workshop conducted by peace corps Ghana from 10th -24th August 2001.
 
 
-
-COMMUNITY ENGAGEMENTS
-======
- 
+ COMMUNITY ENGAGEMENTS
+ ====== 
  * [2019 - 2023] Collaborator ad Gender Expert to Feed the Future Innovation Laboratory for Peanut Ghana Project from 2019-2023.
  * [19/04/2021- 30/06/2021] Resource Person and Facilitator on Sex and Gender Based Violence for young women and support services to Africa Skills Hub (ASH), Tamale.
  * [22/04/2021] Guest Speaker, virtual launch of women’s entrepreneurship and livelihood initiative. Africa Skills Hub, Canada World Youth Partner to Support Women Entrepreneurs in Tamale.
@@ -128,7 +129,7 @@ MEMBERSHIP OF PROFESSIONAL ASSOCIATIONS
 * Member, University Teachers Association of Ghana (UTAG)
 * Member, Ghana Institute of Horticulturalists (GhIH).
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -145,5 +146,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 
