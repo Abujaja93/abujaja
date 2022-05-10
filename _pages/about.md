@@ -17,10 +17,10 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 News
 ======
 
-* [April, 2022] I completed my (https://edwardasare.com/phd-at-53-meet-dr-afishata-abujaja-mohammed/)[PhD in Innovation Comunications] from the (https://uds.edu.gh/)[University for Development Studies].  
+* [April, 2022] I completed my [https://edwardasare.com/phd-at-53-meet-dr-afishata-abujaja-mohammed/](PhD in Innovation Comunications) from the [https://uds.edu.gh/](University for Development Studies).  
 
 
 
 Get in touch with me
 ------
-You can get in touch with me via email: (afiabujaja@yahoo.com)[afiabujaja@yahoo.com] or(afiabujaja@yahoo.com)[mabujaja@uds.edu.gh].
+You can get in touch with me via email: [afiabujaja@yahoo.com](afiabujaja@yahoo.com) or[afiabujaja@yahoo.com](mabujaja@uds.edu.gh).
