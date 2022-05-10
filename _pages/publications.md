@@ -9,6 +9,8 @@ author_profile: true
 
 * Amuriyaga, I. D., Hudu, Z., and **Abujaja, A. M.** (2018). Effectiveness of Project Method of Teaching on Agricultural Knowledge and Skills Acquisition among Agricultural Science Students of Awe Senior High School in the Upper East Region, Ghana. World Journal of Educational Research and Reviews. 4(1): 062-075.
 
+* Amuriyaga, I. D., **Abujaja, A. M.**, Hudu, Z. (2018). Organizing Project Method of Teaching for Effective Agricultural Knowledge and Skills Acquisition: Comparison of Individual and Group Student Project. Journal of Education and Practice. 9 (23): 50-55.  
+
 
 
 {% if author.googlescholar %}
