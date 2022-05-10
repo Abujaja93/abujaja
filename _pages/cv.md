@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-### Education
+Education
 ======
 
 * Ph.D in Innvovation Communication, University for Development Studies, April 2022 
