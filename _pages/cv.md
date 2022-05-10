@@ -96,6 +96,7 @@ CONFERENCES/WORKSHOPS/SEMINARS ATTENDED
 * Peace corps language tester training workshop 30th October 2001.
 * Two weeks training of trainers’ workshop conducted by peace corps Ghana from 10th -24th August 2001.
 
+
  COMMUNITY ENGAGEMENTS
  ======
  
