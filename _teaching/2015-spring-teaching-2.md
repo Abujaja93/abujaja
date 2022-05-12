@@ -19,6 +19,6 @@ Courses Taught
 * EAG 303 Methodology of Teaching Agriculture
 * MED 503 Curriculum ad Methodological studies in Agriculture
 * DEA 101/EAG 103 Introduction to Sociology of Education
-*  399 Off Campus Teaching Practice
+* PEP 399 Off Campus Teaching Practice
 
 
