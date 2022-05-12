@@ -2,7 +2,7 @@
 title: "Teaching Experience "
 collection: teaching
 type: " Teaching"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/
 venue: "UDS,Nyankpla"
 date: 2012- Date
 location: "Tamale, Ghana"
