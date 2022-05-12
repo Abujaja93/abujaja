@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Experience "
 collection: teaching
-type: "Workshop"
+type: " Teaching"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "UDS,Nyankpla"
+date: 2012- Date
+location: "Tamale, Ghana"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Courses Taught
 ======
 
-Heading 2
-======
+* ARG 304 Population & Family Life Education
+* PEP 389 On Campus Teaching Practice
+* ARE 514 Gender and Development
+* FCS 302 Introduction to Gender and Development
+* EAG 303 Methodology of Teaching Agriculture
+* MED 503 Curriculum ad Methodological studies in Agriculture
+* DEA 101/EAG 103 Introduction to Sociology of Education
+*  399 Off Campus Teaching Practice
 
-Heading 3
-======
+
