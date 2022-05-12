@@ -1,14 +1,14 @@
 ---
-title: "Extension Administration & Supervision"
+title: "UDS Teaching"
 collection: teaching
-type: "Undergraduate course"
+<!-- type: "Undergraduate course" -->
 permalink: /teaching/
 venue: "UDS, Nyankpla"
-<!-- date: 2013-01-01 -->
 location: "Tamale, Ghana"
+<!-- date: 2013-01-01 -->
+
 ---
 
-* Agric. Extension Administration & Supervision	
 * ARG 304 Population & Family Life Education			
 * PEP 389 On Campus Teaching Practice								
 * ARE 514 Gender and Development 
