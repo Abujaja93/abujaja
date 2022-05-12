@@ -2,8 +2,9 @@
 ---
 layout: single
 title: "Supervision"
-permalink: /supervision/
-author_profile: true
+redirect_from: 
+  - /supervision/
+  - /supervision.html
 ---
 
 {% include base_path %}
