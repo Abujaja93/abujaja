@@ -45,11 +45,14 @@ author_profile: true
     
 * **Abujaja, A. M.**, Adam, H., and Hudu, Z. (2013). Effects of Development Interventions on the Productivity and Profitability of Women Shea Butter Processors in the West Gonja District of Northern Ghana. Asian Journal of Agriculture and Rural Development. 3(12): 914 – 923. [Download here](https://www.researchgate.net/publication/263851900_Effects_of_Development_Interventions_on_the_Productivity_and_Profitability_of_Women_Shea_Butter_Processors_in_the_West_Gonja_District_of_Northern_Ghana)
     
-* Hudu, Z., Adam, H., and **Abujaja, A. M.**  (2013). The Perception of Agricultural Students and self – employment in Agribusiness: A case Study of Students of University for Development Studies, Ghana. International Journal of Research in Commerce and Management. 4 (12):104 – 109. 
+* Hudu, Z., Adam, H., and **Abujaja, A. M.**  (2013). The Perception of Agricultural Students and self – employment in Agribusiness: A case Study of Students of University for Development Studies, Ghana. International Journal of Research in Commerce and Management. 4 (12):104 – 109. [Download here](https://www.researchgate.net/publication/263965163_THE_PERCEPTION_OF_AGRICULTURAL_STUDENTS_AND_SELF-EMPLOYMENT_IN_AGRIBUSINESS_A_CASE_STUDY_OF_STUDENTS_OF_UNIVERSITY_FOR_DEVELOPMENT_STUDIES_GHANA)
+
+**2008**
+* Kagya-Agyemang, J. K., Meteku, B. K., & **Afishata, M. A.** (2008). Studies On Performance Of Broiler Chickens Fed Oil Palm Slurry. Global Journal of Pure and Applied Sciences, 14(4), 375-378.[Download here](https://www.ajol.info/index.php/gjpas/article/view/16823)
 
 ## Editorial
 
-* **Abujaja, A. M.** and Abdulai, A. (2019). Using effective assessment to improve teaching and learning.  Journal for Researching Education Practice and Theory (JREPT). 2 (1): 1-3 ISSN 2616-6828.
+* **Abujaja, A. M.** and Abdulai, A. (2019). Using effective assessment to improve teaching and learning.  Journal for Researching Education Practice and Theory (JREPT). 2 (1): 1-3 ISSN 2616-6828.[Download here](https://bspace.buid.ac.ae/bitstream/handle/1234/1437/Editorials%20-Using%20effective%20assessment%20to%20improve%20teaching%20and%20learning%20-%20Afishata%20Mohammed%20Abujaja%20and%20Abdulai%20Abukari.pdf?sequence=1&isAllowed=y)
 
 
 ## Book Published
