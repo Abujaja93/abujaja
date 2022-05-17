@@ -1,11 +1,11 @@
 ---
 title: "Teaching and Supervision "
-collection: teaching
-type: " Teaching"
+<!-- collection: teaching
+type: " Teaching" -->
 permalink: /teaching/
 venue: "University for Development Studies, Nyankpla Campus"
-<!-- date: 2012- Date -->
-location: "Tamale, Ghana"
+<!-- date: 2012- Date 
+location: "Tamale, Ghana" -->
 
 ---
 
