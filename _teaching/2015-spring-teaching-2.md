@@ -63,7 +63,7 @@ location: "Tamale, Ghana"
 
 
 
-## Supervision
+## Courses Taught
 
 * ARG 304 Population & Family Life Education
 
