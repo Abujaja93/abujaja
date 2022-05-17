@@ -4,7 +4,7 @@ collection: teaching
 type: " Teaching"
 permalink: /teaching/
 venue: "UDS,Nyankpla"
-date: 2012- Date
+<!-- date: 2012- Date -->
 location: "Tamale, Ghana"
 ---
 
