@@ -9,7 +9,7 @@ location: "Tamale, Ghana"
 ---
 
 
-## Supervision
+## Supervision of Students Thesis
 
 ### Graduate 
 
